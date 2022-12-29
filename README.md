@@ -1,2 +1,3 @@
-###                                                👋Hello! I'm AquaWitty
-![github-snake](https://user-images.githubusercontent.com/121603243/209920664-6f3572d0-d6f6-4084-beb9-1f3371a2138b.svg)
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
